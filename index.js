@@ -14,7 +14,7 @@ app.use(express.json());
 
 // conexao com o banco de dados
 
-let bd = 'mongodb://localhost:27017';
+let bd = 'mongodb://localhost:27017/';
 
 mongoose.connect(bd)
 .then(()=>{
