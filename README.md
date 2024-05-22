@@ -8,4 +8,4 @@ Método PATCH (Atualizar dados)
 ![tres](https://github.com/juliArodrigues4/API-Mongo-Node/assets/134558867/3cce2bb1-4035-424b-a467-ceb79454f5ab)
 <br>
 Método DELETE (Deletar pessoas)
-![quatro](https://github.com/juliArodrigues4/API-Mongo-Node/assets/134558867/4eb07d54-bf2e-49c9-9344-e24d4270ae0a)
+![QUATRO](https://github.com/juliArodrigues4/API-Mongo-Node/assets/134558867/2f0cf18a-b129-476d-976a-a5591ad49f2c)
